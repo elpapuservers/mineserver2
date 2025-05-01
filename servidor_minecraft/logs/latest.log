@@ -62,3 +62,17 @@
 [01:54:12] [Server thread/INFO]: Ulizard has reached the goal [Sky's the Limit]
 [01:54:23] [Server thread/INFO]: [Ulizard: Set own game mode to Survival Mode]
 [01:55:42] [Server thread/INFO]: [Ulizard: Gave 99 [Firework Rocket] to Ulizard]
+[02:02:50] [Server thread/INFO]: Ulizard was slain by Zombie
+[02:05:01] [Server thread/INFO]: Ulizard was slain by Zombie
+[02:05:11] [Server thread/INFO]: Ulizard was slain by Zombie
+[02:05:20] [Server thread/INFO]: Stopping the server
+[02:05:20] [Server thread/INFO]: Stopping server
+[02:05:20] [Server thread/INFO]: Saving players
+[02:05:20] [Server thread/INFO]: Saving worlds
+[02:05:20] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[02:05:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[02:05:21] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[02:05:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[02:05:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[02:05:21] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[02:05:21] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved

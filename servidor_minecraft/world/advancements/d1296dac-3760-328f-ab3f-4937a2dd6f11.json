@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:end/elytra": {
+    "criteria": {
+      "elytra": "2025-05-01 01:54:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-05-01 01:52:06 +0000"
@@ -29,6 +35,12 @@
     },
     "done": true
   },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_by_something": "2025-05-01 02:02:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-05-01 01:52:19 +0000"
@@ -38,7 +50,9 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:beach": "2025-05-01 01:51:35 +0000",
-      "minecraft:forest": "2025-05-01 01:51:13 +0000"
+      "minecraft:forest": "2025-05-01 01:51:13 +0000",
+      "minecraft:ocean": "2025-05-01 01:54:35 +0000",
+      "minecraft:river": "2025-05-01 01:54:46 +0000"
     },
     "done": false
   },
